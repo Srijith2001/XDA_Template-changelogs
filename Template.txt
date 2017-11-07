@@ -15,11 +15,11 @@
  */[/SIZE]
  [/CODE]
 
-[SIZE="3"]"This is an user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+[SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
 
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/about.png[/IMG]
 
-[SIZE="4"]dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable an user to extract as much juice as possible and get most out of his/her device.
+[SIZE="4"]dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable a user to extract as much juice as possible and get most out of his/her device.
 Initially started by Mohan CM and later joined by Ganesh, Sam, Kuber, Iacob and Hari. Together we stand strong.[/SIZE]
 
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/features.png[/IMG]
@@ -31,9 +31,9 @@ Perfect Interface for every User
 
 [CODE]Substratum rootless theme engine support (must install Substratum from play store)
 dotEXTRAS!
-Lawanchair for home
+Lawnchair for home
 colour engine for theming
-redesigned settings and qs panel
+redesigned settings and QS panel
 Status bar time and date options
 Status bar network traffic indicator
 Status bar notification settings
@@ -41,7 +41,7 @@ Quick tile settings
 Volume button playback control
 Volume button wake
 Screen record
-ehanced default apps
+enhanced default apps
 And much more!!!![/CODE]
 Read more about Features here : [URL="https://dotos.github.io/index.html#features_section"]click here[/URL][/SIZE]
 
@@ -129,7 +129,7 @@ Android Device [/CODE]
 Download adb executable for your OS (Download: Windows | Linux | Mac). Paste it somewhere.
 Connect your android device.
 Verify if "Settings > Developer options > USB debugging" is checked, if not, simply check it.
-Open a command promt (windows) or terminal (linux / mac). How to do it: On Windows: windows + r > enter "cmd" (without quotes) > click enter | On Linux: You don't know how to open a terminal? LOL | On Mac: Type Terminal into Spotlight and open it
+Open a command prompt (windows) or terminal (linux / mac). How to do it: On Windows: windows + r > enter "cmd" (without quotes) > click enter | On Linux: You don't know how to open a terminal? LOL | On Mac: Type Terminal into Spotlight and open it
 CD to the directory where the adb executable is located. On Windows: Go to the directory where you downloaded the adb executable, Shift+Right Click and select "Open Console" (or similar) | On Linux / Mac: Rightclick in the directory and select "Open Terminal here" (or simply CD into the directory)
 Type in your cmd/terminal: adb devices to verify your device is properly connected.
 If your device is properly selected, type in adb logcat to show the mighty and magic logcat aka stacktrace.
