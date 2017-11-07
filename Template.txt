@@ -15,13 +15,16 @@
  */[/SIZE]
  [/CODE]
 
-[SIZE="5"]"This is an user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
-[IMG]https://raw.githubusercontent.com/Kuberrocks96/dotos-template/34bfb0dd6e6c0fcd4640319008bced65af1036a9/about.png[/IMG]
+[SIZE="3"]"This is an user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/about.png[/IMG]
+
 [SIZE="4"]dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable an user to extract as much juice as possible and get most out of his/her device.
 Initially started by Mohan CM and later joined by Ganesh, Sam, Kuber, Iacob and Hari. Together we stand strong.[/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Kuberrocks96/dotos-template/34bfb0dd6e6c0fcd4640319008bced65af1036a9/features.png[/IMG]
-[SIZE="5"]Stability and Performance
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/features.png[/IMG]
+
+[SIZE="4"]Stability and Performance
 Lagfree with High Performance Results
 Clutterless UI
 Perfect Interface for every User
@@ -40,10 +43,11 @@ Volume button wake
 Screen record
 ehanced default apps
 And much more!!!![/CODE]
-
 Read more about Features here : [URL="https://dotos.github.io/index.html#features_section"]click here[/URL][/SIZE]
-[IMG]https://raw.githubusercontent.com/Kuberrocks96/dotos-template/34bfb0dd6e6c0fcd4640319008bced65af1036a9/instructions.png[/IMG]
-[SIZE="5"][B]CLEAN FLASH :[/B][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/instructions.png[/IMG]
+
+[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
 [SIZE="4"]Download the latest build and GApps
 Reboot to recovery 
 Make NAndroid backup (Not Necessary)
@@ -51,25 +55,28 @@ Wipe System, Data, Cache , Dalvik
 Flash the latest build and GApps
 Reboot[/SIZE]
 
-[SIZE="5"][B]DIRTY FLASH :[/B][/SIZE]
+[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
 [SIZE="4"]Download the latest build and GApps
 Reboot to recovery
 Flash the latest build and GApps
 Wipe Cache [Not Necessary]
 Reboot[/SIZE]
-[IMG]https://raw.githubusercontent.com/Kuberrocks96/dotos-template/34bfb0dd6e6c0fcd4640319008bced65af1036a9/downloads.png[/IMG]
-[INDENT][SIZE="3"]
-Download [B]ROM:[/B]
-[URL="https://sourceforge.net/projects/dotos-ota/files/codename/"]Dot-N V1.0[/URL]
+
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/downloads.png[/IMG]
+
+[INDENT][SIZE="3"]Download [B]ROM:[/B]
+[URL="https://sourceforge.net/projects/dotos-ota/files/"]Dot-N V1.0[/URL]
 [SIZE="4"]
 Download [B]Gapps:[/B]
-Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps [CENTER][IMG]https://github.com/mohancm100/images/blob/master/gapp.png?raw=true[/IMG][/CENTER][B][URL="http://opengapps.org/"]OpenGApps[/URL][/B]
+Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/68572df91c1f9d7a238ae375b8410783c6dd28f4/IMGs/gapp.png[/IMG][B][URL="http://opengapps.org/"]OpenGApps[/URL][/B]
 [/SIZE]
 [/SIZE][/INDENT]
-[IMG]https://raw.githubusercontent.com/Kuberrocks96/dotos-template/34bfb0dd6e6c0fcd4640319008bced65af1036a9/credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/credits.png[/IMG]
+
 [SIZE="4"]
 [INDENT]
-[SIZE="7"][B][COLOR="SeaGreen"]dot[/COLOR][IMG]https://github.com/mohancm100/images/blob/master/lgo.png?raw=true[/IMG][COLOR="Blue"]S[/COLOR][/B][/SIZE] team
+[SIZE="7"][B][COLOR="SeaGreen"]dot[/COLOR][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/68572df91c1f9d7a238ae375b8410783c6dd28f4/IMGs/lgo.png[/IMG][COLOR="Blue"]S[/COLOR][/B][/SIZE] team
 [SIZE="4"]
 [IMG]https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Lineage_OS_Logo.png/52px-Lineage_OS_Logo.png[/IMG]LineageOS team
 ResurrectionRemix team
@@ -81,7 +88,8 @@ And all other open source Devs/Teams.
 [/SIZE]
 [/INDENT]
 [/SIZE]
-[IMG]https://raw.githubusercontent.com/Kuberrocks96/dotos-template/34bfb0dd6e6c0fcd4640319008bced65af1036a9/team.png[/IMG]
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/team.png[/IMG]
+
 [SIZE="4"][B]Mohan CM[/B] - The dotOS Founder/Head Dev./Contributor
 [B]Ganesh Varma[/B]  - Lead Dev./Contributor/Maintainer
 [B]Kuber Sharma[/B] - Contributor/Designer/Analyst
@@ -90,8 +98,8 @@ And all other open source Devs/Teams.
 [B]Hari Ambadi[/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
 
 [U][B][SIZE="3"]Also Special thanks to :[/SIZE][/B][/U]
-[I][SIZE="3"]@ishubhamsingh
-@Anandramachandran[/SIZE][/I]
+[I][SIZE="3"]ishubhamsingh
+Anandramachandran[/SIZE][/I]
 
 
 [U][SIZE="5"][B]Sources[/B][/SIZE][/U]
@@ -99,11 +107,37 @@ And all other open source Devs/Teams.
 [SIZE="5"][B][COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR] source[/URL][/B][/SIZE]
 
 [SIZE=5][B][COLOR=Blue] Reference Links[/COLOR][/B][/SIZE]
-[B][URL="https://t.me/joinchat/F5gV3UNJ7nQG2XB6iyuftg"]Telegram Group[/URL][/B]
+[B][URL="http://t.me/dotOS"]dotOSChannel[/URL][/B]
 [B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
 [B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
 [/SIZE]
-[IMG]https://i.imgur.com/fBKUqV1.png[/IMG][/CENTER]
+
+[B][SIZE="4"]REPORTING BUGS![/SIZE][/B]
+As soon as the problem occurs, take a logcat! 
+[B]READ MORE[/B]
+[SIZE="3"][HIDE][B]What is a LogCat? [/B]
+A "LogCat" is for debugging applications / Android system. When applications / Android crash the output the "explanation" for the crash, the Exception Stacktrace, to a Log. This log can be saved and help developers to fix the crash.
+[B]What is it supposed to do?[/B]
+It will help to solve your questions, if your asked for a LogCat it is always useful.
+[B]How can I get a LogCat?[/B]
+[B]Prerequisites: [/B]
+[CODE]Linux, Windows or Mac 
+USB cable for your device 
+Android Device [/CODE]
+[B]Instructions:[/B]
+[CODE]Install your device driver for using adb. Everything you need will you find here
+Download adb executable for your OS (Download: Windows | Linux | Mac). Paste it somewhere.
+Connect your android device.
+Verify if "Settings > Developer options > USB debugging" is checked, if not, simply check it.
+Open a command promt (windows) or terminal (linux / mac). How to do it: On Windows: windows + r > enter "cmd" (without quotes) > click enter | On Linux: You don't know how to open a terminal? LOL | On Mac: Type Terminal into Spotlight and open it
+CD to the directory where the adb executable is located. On Windows: Go to the directory where you downloaded the adb executable, Shift+Right Click and select "Open Console" (or similar) | On Linux / Mac: Rightclick in the directory and select "Open Terminal here" (or simply CD into the directory)
+Type in your cmd/terminal: adb devices to verify your device is properly connected.
+If your device is properly selected, type in adb logcat to show the mighty and magic logcat aka stacktrace.
+Reproduce your error (or whatever) on your device.
+Right after, paste the whole cmd / terminal window into a paste-service like [url]http://pastebin.com/[/url] and send it to us.[/CODE][/SIZE][/HIDE]
+
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/68572df91c1f9d7a238ae375b8410783c6dd28f4/IMGs/ATD.png[/IMG]
+[/CENTER]
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE=3][B]dotOS, ROM for the Lenovo Vibe K4 Note[/B][/SIZE]
