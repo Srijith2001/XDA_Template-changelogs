@@ -56,10 +56,10 @@ Flash the latest build and GApps
 Reboot[/SIZE]
 
 [SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
-[SIZE="4"]Download the latest build and GApps
+[SIZE="4"]Download the latest build 
 Reboot to recovery
-Flash the latest build and GApps
-Wipe Cache [Not Necessary]
+Flash the latest build
+Wipe Cache
 Reboot[/SIZE]
 
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/downloads.png[/IMG]
