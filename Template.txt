@@ -29,11 +29,11 @@ Lagfree with High Performance Results
 Clutterless UI
 Perfect Interface for every User
 
-[CODE]Substratum rootless theme engine support (must install Substratum from play store)
+[CODE]Rootless Substratum Support
 dotEXTRAS!
-Lawnchair for home
-colour engine for theming
-redesigned settings and QS panel
+Lawnchair Launcher 
+Colour Engine
+Redesigned settings and QS panel
 Status bar time and date options
 Status bar network traffic indicator
 Status bar notification settings
@@ -41,7 +41,7 @@ Quick tile settings
 Volume button playback control
 Volume button wake
 Screen record
-enhanced default apps
+Enhanced default apps
 And much more!!!![/CODE]
 Read more about Features here : [URL="https://dotos.github.io/index.html#features_section"]click here[/URL][/SIZE]
 
@@ -65,7 +65,7 @@ Reboot[/SIZE]
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/downloads.png[/IMG]
 
 [INDENT][SIZE="3"]Download [B]ROM:[/B]
-[URL="https://sourceforge.net/projects/dotos-ota/files/"]Dot-N V1.0[/URL]
+[URL="https://sourceforge.net/projects/dotos-ota/files/"]DotOS ROM[/URL]
 [SIZE="4"]
 Download [B]Gapps:[/B]
 Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps
@@ -90,7 +90,8 @@ And all other open source Devs/Teams.
 [/SIZE]
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/team.png[/IMG]
 
-[SIZE="4"][B]Mohan CM[/B] - The dotOS Founder/Head Dev./Contributor
+[SIZE="4"]
+[B]Mohan CM[/B] - dotOS Founder/Lead Dev./Contributor
 [B]Ganesh Varma[/B]  - Lead Dev./Contributor/Maintainer
 [B]Kuber Sharma[/B] - Contributor/Designer/Analyst
 [B]Sam Grande[/B] - Contributor/Designer/Maintainer 
@@ -107,9 +108,10 @@ Anandramachandran[/SIZE][/I]
 [SIZE="5"][B][COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR] source[/URL][/B][/SIZE]
 
 [SIZE=5][B][COLOR=Blue] Reference Links[/COLOR][/B][/SIZE]
-[B][URL="http://t.me/dotOS"]dotOSChannel[/URL][/B]
+[B][URL="http://t.me/dotOS"]DotOS Group[/URL][/B]
 [B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
 [B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
+[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
 [/SIZE]
 
 [B][SIZE="4"]REPORTING BUGS![/SIZE][/B]
@@ -140,10 +142,10 @@ Right after, paste the whole cmd / terminal window into a paste-service like [ur
 [/CENTER]
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]dotOS, ROM for the Lenovo Vibe K4 Note[/B][/SIZE]
+[SIZE=3][B]dotOS, ROM for the *Your Device*[/B][/SIZE]
 
 [B][U]Contributors[/U][/B]
-[URL="https://forum.xda-developers.com/member.php?u=7471004"]mohancm[/URL]    
+*Maintainer Name*
 [B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
 
 [B]ROM OS Version:[/B] 7.x Nougat
