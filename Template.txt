@@ -3,7 +3,7 @@
 [SIZE="4"] " #[COLOR="SeaGreen"]Droid[/COLOR][COLOR="Red"]On[/COLOR][COLOR="Blue"]Time[/COLOR] " [/SIZE]
 
 
-[SIZE="7"][COLOR=Blue][B]Disclaimer[/B][/COLOR][/SIZE]
+[SIZE="7"][COLOR=Blue][B][FONT="Arial Black"]Disclaimer[/FONT][/B][/COLOR][/SIZE]
 
 [CODE][SIZE="4"] 
 /*
@@ -24,26 +24,76 @@ Initially started by Mohan CM and later joined by Ganesh, Sam, Kuber, Iacob and 
 
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/features.png[/IMG]
 
-[SIZE="4"]Stability and Performance
-Lagfree with High Performance Results
-Clutterless UI
-Perfect Interface for every User
 
-[CODE]Rootless Substratum Support
-dotEXTRAS!
-Lawnchair Launcher 
-Colour Engine
-Redesigned settings and QS panel
-Status bar time and date options
-Status bar network traffic indicator
-Status bar notification settings
-Quick tile settings
-Volume button playback control
-Volume button wake
-Screen record
-Enhanced default apps
-And much more!!!![/CODE]
-Read more about Features here : [URL="https://dotos.github.io/index.html#features_section"]click here[/URL][/SIZE]
+[FONT="Arial Black"][SIZE="3"][B]Stability and Performance[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Lagfree with High Performance Results[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Clutterless UI[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Perfect Interface for every User[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Enhanced default apps[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Redesigned settings and QS panel[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Full OMS support[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="3"][B]Colour Engine Support[/B][/SIZE][/FONT]
+
+[FONT="Arial Black"][SIZE="4"][B]DotExtras !![/B][/SIZE][/FONT]
+
+[COLOR="Green"][SIZE="3"]STATUSBAR[/SIZE][/COLOR]
+[HIDE]
+* Clock Customisation
+* Battery Customisation
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Quick Settings[/SIZE][/COLOR]
+[HIDE]
+* Quick Pulldown
+* QS Tiles Customisation
+* Advanced Quick Setting Easy Toggles
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Buttons[/SIZE][/COLOR]
+[HIDE]
+* Volume Key Cursor Control
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Display[/SIZE][/COLOR]
+[HIDE]
+* Wake on Plug
+* Pocket Detection
+* Accidental Touch
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Lockscreen[/SIZE][/COLOR]
+[HIDE]
+* Fingerprint Tweaks
+* Powermenu Tweaks
+* Double tap 2 sleep anywhere
+* Lockscreen Media Customisation
+* Blur Screen Lockscreen
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Recents[/SIZE][/COLOR]
+[HIDE]
+* Clear all Button
+* Immersive Recents
+* Show Memory Bar
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Navigation Bar[/SIZE][/COLOR]
+[HIDE]
+* On screen navigation Bar tweaks
+* Home Button tweaks
+* Menu Button tweaks
+* Back Button tweaks
+* Power Button tweaks
+* Volume Buttons tweaks
+[/HIDE]
+
+[COLOR="Green"][SIZE="3"]Misc[/SIZE][/COLOR]
+[HIDE]
+* Advanced Reboot
+* Disable Force Close
+* ScreenShot Tweaks
+* Camera Shutter Sound
+[/HIDE]
 
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/instructions.png[/IMG]
 
@@ -78,12 +128,11 @@ Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps
 [INDENT]
 [SIZE="7"][B][COLOR="SeaGreen"]dot[/COLOR][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/68572df91c1f9d7a238ae375b8410783c6dd28f4/IMGs/lgo.png[/IMG][COLOR="Blue"]S[/COLOR][/B][/SIZE] team
 [SIZE="4"]
-[IMG]https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Lineage_OS_Logo.png/52px-Lineage_OS_Logo.png[/IMG]LineageOS team
-ResurrectionRemix team
+[IMG]https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Lineage_OS_Logo.png/52px-Lineage_OS_Logo.png[/IMG][FONT="Comic Sans MS"]LineageOS team[/FONT]
+[FONT="Comic Sans MS"]ResurrectionRemix team
 AospExtended
 crDroid team
-AICP team
-Qijaz221 - EON Music Player
+AICP team [/FONT] 
 And all other open source Devs/Teams.
 [/SIZE]
 [/INDENT]
@@ -91,19 +140,18 @@ And all other open source Devs/Teams.
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/396d4678d9699bcf3c71b63ae5f2d33ee9a55d04/IMGs/team.png[/IMG]
 
 [SIZE="4"]
-[B]Mohan CM[/B] - dotOS Founder/Lead Dev./Contributor
-[B]Ganesh Varma[/B]  - Lead Dev./Contributor/Maintainer
-[B]Kuber Sharma[/B] - Contributor/Designer/Analyst
-[B]Sam Grande[/B] - Contributor/Designer/Maintainer 
-[B]Iacob Ionut[/B]  - Contributor/Designer/Maintainer
-[B]Hari Ambadi[/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - dotOS Founder/Lead Dev./Contributor
+[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Lead Dev./Contributor/Maintainer
+[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Contributor/Designer/Analyst
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - Contributor/Designer/Maintainer 
+[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - Contributor/Designer/Maintainer
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
 
 [U][B][SIZE="3"]Also Special thanks to :[/SIZE][/B][/U]
-[I][SIZE="3"]ishubhamsingh
-Anandramachandran[/SIZE][/I]
+[I][SIZE="3"]ishubhamsingh[/SIZE][/I]
 
 
-[U][SIZE="5"][B]Sources[/B][/SIZE][/U]
+[IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/github.png?raw=true[/IMG][U][SIZE="5"][B]Sources[/B][/SIZE][/U]
 [SIZE="4"][URL="https://github.com/DotOS"]
 [SIZE="5"][B][COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR] source[/URL][/B][/SIZE]
 
@@ -116,11 +164,21 @@ Unofficial Device specific sources:
 ....
 
 [SIZE=5][B][COLOR=Blue] Reference Links[/COLOR][/B][/SIZE]
-[B][URL="http://t.me/dotOS"]DotOS Group[/URL][/B]
-[B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
-[B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
+
+[IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/g+.png?raw=true[/IMG][CENTER][U][SIZE="5"][FONT="Franklin Gothic Medium"]Google+ Community[/FONT][/SIZE][/U][/CENTER]
 [B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+
+[CENTER][U][IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/tel.png?raw=true[/IMG][SIZE="5"][FONT="Franklin Gothic Medium"]Telegram Links[/FONT][/SIZE][/U]
+[B][URL="http://t.me/dotOS"]DotOS Group[/URL][/B]
+[B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
+
+[U][FONT="Franklin Gothic Medium"][SIZE="5"]Our [IMG]https://github.com/mohancm100/images/blob/master/lgo.png?raw=true[/IMG]Website[/SIZE][/FONT]:[/U][/CENTER]
+[B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
 [/SIZE]
+
+[CENTER][SIZE="3"][FONT="Comic Sans MS"][URL="https://www.paypal.me/MOHANCM"]Liked Our ROm? Want to Help Us?[/URL][/FONT][/SIZE]
+[URL="https://www.paypal.me/MOHANCM"][IMG]https://www.dokuwiki.org/lib/exe/fetch.php?tok=d9fa04&media=https%3A%2F%2Fraw.githubusercontent.com%2Ftschinz%2Fdokuwiki_paypal_plugin%2Fmaster%2Flogo.jpg[/IMG][/URL][/CENTER]
+
 
 [B][SIZE="4"]REPORTING BUGS![/SIZE][/B]
 As soon as the problem occurs, take a logcat! 
@@ -163,7 +221,7 @@ Right after, paste the whole cmd / terminal window into a paste-service like [ur
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
-[B]Current Stable Version:[/B] v1.0
+[B]Current Stable Version:[/B] v1.1
 [B]Stable Release Date:[/B] 2017-11-05
 
 [B]Created[/B] 2017-11-05
