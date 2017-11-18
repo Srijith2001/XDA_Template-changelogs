@@ -19,22 +19,22 @@
 
 [IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/about.png[/IMG]
 
-[SIZE="3"]dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable a user to extract as much juice as possible and get most out of his/her device.
+[SIZE="4"]dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable a user to extract as much juice as possible and get most out of his/her device.
 Initially started by Mohan CM and later joined by Ganesh, Sam, Kuber, Iacob and Hari. Together we stand strong.[/SIZE]
 
 [IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/features.png[/IMG]
 
 
-[FONT="Trebuchet MS"][SIZE="3"][B]Stability and Performance[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Lagfree with High Performance Results[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Clutterless UI[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Perfect Interface for every User[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Enhanced default apps[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Redesigned settings and QS panel[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Full OMS support[/B][/SIZE][/FONT]
-[FONT="Trebuchet MS"][SIZE="3"][B]Colour Engine Support[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Stability and Performance[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Lagfree with High Performance Results[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Clutterless UI[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Perfect Interface for every User[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Enhanced default apps[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Redesigned settings and QS panel[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Full OMS support[/B][/SIZE][/FONT]
+[FONT="Arial Black"][SIZE="4"][B]Colour Engine Support[/B][/SIZE][/FONT]
 
-[FONT="Trebuchet MS"][SIZE="4"][B]DotExtras !![/B][/SIZE][/FONT]
+[U][FONT="Arial Black"][SIZE="5"][B]DotExtras !![/B][/SIZE][/FONT][/U]
 
 [B][COLOR="#2ba851"][SIZE="3"]STATUSBAR[/SIZE][/COLOR][/B]
 [HIDE]
@@ -127,11 +127,11 @@ Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps
 [INDENT]
 [SIZE="4"]
 [B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] team
-LineageOS team
-ResurrectionRemix team
+[IMG]https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Lineage_OS_Logo.png/52px-Lineage_OS_Logo.png[/IMG][FONT="Comic Sans MS"]LineageOS team[/FONT]
+[FONT="Comic Sans MS"]ResurrectionRemix team
 AospExtended
 crDroid team
-AICP team
+AICP team [/FONT] 
 And all other open source Devs/Teams.[/B]
 [/SIZE]
 [/INDENT]
@@ -139,45 +139,43 @@ And all other open source Devs/Teams.[/B]
 [IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/8d36482f8aeba2771147e7290dc952dfe1e2eb50/theteam.png[/IMG]
 
 [SIZE="4"]
-[B][FONT="Trebuchet MS"]Mohan CM[/FONT][/B] - dotOS Founder/Lead Dev./Contributor
-[B][FONT="Trebuchet MS"]Ganesh Varma[/FONT][/B]  - Lead Dev./Contributor/Maintainer
-[B][FONT="Trebuchet MS"]Kuber Sharma[/FONT][/B] - Contributor/Designer/Analyst
-[B][FONT="Trebuchet MS"]Sam Grande[/FONT][/B] - Contributor/Designer/Maintainer 
-[B][FONT="Trebuchet MS"]Iacob Ionut[/FONT][/B]  - Contributor/Designer/Maintainer
-[B][FONT="Trebuchet MS"]Hari Ambadi[/FONT][/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - dotOS Founder/Lead Dev./Contributor
+[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Lead Dev./Contributor/Maintainer
+[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Contributor/Designer/Analyst
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - Contributor/Designer/Maintainer 
+[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - Contributor/Designer/Maintainer
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
 
-
-
-[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/github.png[/IMG]
+[IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/github.png?raw=true[/IMG]
 [SIZE="4"][URL="https://github.com/DotOS"]
 [SIZE="5"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
 
 
-[B]Device Specific Sources[/B]
+[U][B]Device Specific Sources[/B][/U]
 Official Device specific sources:
 [url]https://github.com/dotOS-Devices[/url]
 
 Unofficial Device specific sources:
 ....
 
-[SIZE=5][B][COLOR=#2ba851] Reference Links[/COLOR][/B][/SIZE]
+[SIZE=5][B][COLOR=#2ba851] [I]Reference Links[/I][/COLOR][/B][/SIZE]
 
 [IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/g+.png?raw=true[/IMG]
-[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+[U][B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B][/U]
 
 [CENTER][IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/telegram.png[/IMG]
-[B][URL="http://t.me/dotOS"]DotOS Group[/URL][/B]
+[U][B][URL="http://t.me/dotOS"]DotOS Group[/URL][/B][/U]
 [B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
 
-[SIZE="5"] [IMG]https://github.com/mohancm100/images/blob/master/lgo.png?raw=true[/IMG][/SIZE][/CENTER]
-[B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
+[SIZE="6"] [IMG]https://github.com/mohancm100/images/blob/master/lgo.png?raw=true[/IMG][/SIZE][/CENTER]
+[U][B][URL="https://dotos.github.io/index.html"]Website[/URL][/B][/U]
 [/SIZE]
 
 [URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/master/cash.png[/IMG][/URL]
 
-[SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed]Liked The ROm? Want to Help Us? Then gift us some credits[/COLOR][/URL][/B][/SIZE]
+[SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed][FONT="Comic Sans MS"]Liked The ROm? Want to Help Us? Then gift us some credits[/FONT][/COLOR][/URL][/B][/SIZE]
 
-[B][SIZE="4"]REPORTING BUGS![/SIZE][/B]
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="Red"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
 As soon as the problem occurs, take a logcat! 
 [B]READ MORE[/B]
 [SIZE="3"][HIDE][B]What is a LogCat? [/B]
