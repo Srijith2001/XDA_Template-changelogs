@@ -136,7 +136,7 @@ And all other open source Devs/Teams.[/B]
 [/SIZE]
 [/INDENT]
 [/SIZE]
-[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/8d36482f8aeba2771147e7290dc952dfe1e2eb50/theteam.png[/IMG]
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/ae6901eac41b862477a7db5787f5dfac37f8f3b0/theteam.png[/IMG]
 
 [SIZE="4"]
 [B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - dotOS Founder/Lead Dev./Contributor
@@ -175,7 +175,7 @@ Unofficial Device specific sources:
 
 [SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed][FONT="Comic Sans MS"]Liked The ROm? Want to Help Us? Then gift us some credits[/FONT][/COLOR][/URL][/B][/SIZE]
 
-[U][B][SIZE="4"][FONT="Arial Black"][COLOR="Red"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
 As soon as the problem occurs, take a logcat! 
 [B]READ MORE[/B]
 [SIZE="3"][HIDE][B]What is a LogCat? [/B]
