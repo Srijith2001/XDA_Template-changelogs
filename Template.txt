@@ -110,7 +110,10 @@ Reboot[/SIZE]
 Reboot to recovery
 Flash the latest build
 Wipe Cache
-Reboot[/SIZE]
+Reboot
+[B]The ROM has GApps persistence in between dirty flashes, so you only have to flash them once!
+The root solution should be flashed together with every OTA update (= ROM Update) as long as the instructions of your
+root solution do not state something else (="persistence on dirty flashing") ![/B][/SIZE]
 
 [IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/downloads.png[/IMG]
 
