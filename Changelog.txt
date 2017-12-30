@@ -1,6 +1,6 @@
 **dotOS Changelog**
 
-* Bump Dot version to 1.1''
+* Bump Dot version to 1.1
 * Fingerprint: Setting up Pattern/Pin Fc fixed
 * dotOTA added(OTA system adapted for official devices)
 * fix dot version unknown
@@ -20,3 +20,19 @@
 * Allow disabling of FC dialogs
 * QS Header Icon settings
 * and few more bug fixes
+
+* Bump Dot version to 1.2
+
+* Merged December Security patch
+* More visual bug fixes
+* QS tiles track color accent.
+* Added Network Indicator (Settings->Data Usage).
+* Added Changelog section inside About.
+* New settings icons.
+* Re-work on overall app icons.
+* Some new dope walls.
+* And many more bug fixes and performace enhancements.
+* Added framework boost.
+* Minor glitch fixes with qs panel.  (systemui FC on qs panel is still WIP)
+* Fixed invisible gear icon in settings top bar
+* Dot OTA issue fixed
