@@ -175,7 +175,7 @@ Unofficial Device specific sources:
 [B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
 
 [SIZE="6"] [IMG]https://github.com/mohancm100/images/blob/master/lgo.png?raw=true[/IMG][/SIZE][/CENTER]
-[U][B][URL="https://dotos.github.io/index.html"]Website[/URL][/B][/U]
+[U][B][URL="www.droidontime.com"]Website[/URL][/B][/U]
 [/SIZE]
 
 [URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/master/cash.png[/IMG][/URL]
