@@ -143,11 +143,15 @@ And all other open source Devs/Teams.[/B]
 
 [SIZE="4"]
 [B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - dotOS Founder/Lead Dev./Contributor
-[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Lead Dev./Contributor/Maintainer
-[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Contributor/Designer/Analyst
-[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - Contributor/Designer/Maintainer 
-[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - Contributor/Designer/Maintainer
-[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Lead Dev./Maintainer/Contributor
+[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer/Analyst/Contributor
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Maintainer/Contributor 
+[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/Maintainer/Contributor
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Lead Designer/Core GFX/Contributor
+[B][FONT="Comic Sans MS"]Atul Bansode[/FONT][/B]  - Infrastructure/Maintainer/Contributor [/SIZE]
+
+[SIZE="4"][B][U]Special thanks to our Contributors[/U][/B]
+[B][FONT="Comic Sans MS"]Alexcbrookes[/FONT][/B]  - Designer/Wallpapers/Contributor [/SIZE]
 
 [IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/github.png?raw=true[/IMG]
 [SIZE="4"][URL="https://github.com/DotOS"]
@@ -214,12 +218,12 @@ Right after, paste the whole cmd / terminal window into a paste-service like [ur
 
 [B]ROM OS Version:[/B] 7.x Nougat
 [B]ROM Kernel:[/B] Linux 3.x
-[B]ROM Firmware Required:[/B] Must be on Marshmallow
+[B]ROM Firmware Required:[/B] Must be on Latest Firmware
 [B]Based On:[/B] LineageOS
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
-[B]Current Stable Version:[/B] v1.1
+[B]Current Stable Version:[/B] v1.2
 [B]Stable Release Date:[/B] 2017-11-05
 
 [B]Created[/B] 2017-11-05
