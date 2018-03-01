@@ -150,7 +150,7 @@ And all other open source Devs/Teams.[/B]
 [B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Lead Designer/Core GFX/Contributor
 [B][FONT="Comic Sans MS"]Atul Bansode[/FONT][/B]  - Infrastructure/Maintainer/Contributor [/SIZE]
 
-[SIZE="4"][B][U]Special thanks to our Contributors[/U][/B]
+[SIZE="4"][B][U]Special thanks:[/U][/B]
 [B][FONT="Comic Sans MS"]Alexcbrookes[/FONT][/B]  - Designer/Wallpapers/Contributor [/SIZE]
 
 [IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/github.png?raw=true[/IMG]
@@ -163,7 +163,7 @@ Official Device specific sources:
 [url]https://github.com/dotOS-Devices[/url]
 
 Unofficial Device specific sources:
-....
+
 
 [SIZE=5][B][COLOR=#2ba851] [I]Reference Links[/I][/COLOR][/B][/SIZE]
 
@@ -215,6 +215,7 @@ Right after, paste the whole cmd / terminal window into a paste-service like [ur
 [B][U]Contributors[/U][/B]
 *Maintainer Name*
 [B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
+[B]Kernel Source:[/B]: 
 
 [B]ROM OS Version:[/B] 7.x Nougat
 [B]ROM Kernel:[/B] Linux 3.x
@@ -224,7 +225,7 @@ Right after, paste the whole cmd / terminal window into a paste-service like [ur
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
 [B]Current Stable Version:[/B] v1.2
-[B]Stable Release Date:[/B] 2017-11-05
+[B]Stable Release Date:[/B] 2018-02-20
 
 [B]Created[/B] 2017-11-05
 [B]Last Updated[/B] 2017-11-05
