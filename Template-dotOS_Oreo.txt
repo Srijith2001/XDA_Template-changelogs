@@ -46,7 +46,6 @@ Download [B]Gapps:[/B]
 [B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer/Contributor
 [B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Contributor 
 [B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/Contributor
-[B][FONT="Comic Sans MS"]Atul Bansode[/FONT][/B]  - Infrastructure/Contributor 
 [B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer [/SIZE]
 [SIZE="4"][B][U]Special thanks:[/U][/B]
 [B][FONT="Comic Sans MS"]Alexcbrookes[/FONT][/B]  - Arts & Wallpaper Designer[/SIZE]
