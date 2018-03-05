@@ -147,8 +147,7 @@ And all other open source Devs/Teams.[/B]
 [B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer/Analyst/Contributor
 [B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Maintainer/Contributor 
 [B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/Maintainer/Contributor
-[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Lead Designer/Core GFX/Contributor
-[B][FONT="Comic Sans MS"]Atul Bansode[/FONT][/B]  - Infrastructure/Maintainer/Contributor [/SIZE]
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Lead Designer/Core GFX/Contributor[/SIZE]
 
 [SIZE="4"][B][U]Special thanks:[/U][/B]
 [B][FONT="Comic Sans MS"]Alexcbrookes[/FONT][/B]  - Designer/Wallpapers/Contributor [/SIZE]
