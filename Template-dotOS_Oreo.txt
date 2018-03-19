@@ -35,6 +35,54 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 Download [B]Gapps:[/B]
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/SIZE][/INDENT]
 [CENTER]Note : Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps[/CENTER]
+
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/features.png[/IMG]
+[HIDE][CODE][LIST]
+[U][B]STATUSBAR:[/B][/U]
+[*]Battery Icon Style
+[*]Clock and Date
+[*]Statusbar icons
+[*]Traffic indicators
+[*]Misc
+
+[U][B]Navigation Bar:[/B][/U]
+[*]Navbar modes(Stock, Smartbar, Fling)
+[*]Smartbar tweaks
+[*]Navbar Pulse
+[*]Fling mode gestures
+[*]All DUI nav tweaks
+
+[U][B]QUICK SETTINGS:[/B][/U]
+[*]Brightness slider toggle
+[*]Titles visibility
+[*]Tiles track accent color toogle
+[*]Quick pulldown
+[*]Smart pulldown
+[*]Rows and columns tweaks
+
+[U][B]RECENTS:[/B][/U]
+[*]Memory bar
+[*]Immersive recents
+[*]Clear all fab
+[*]Clear all fab location
+
+[U][B]LOCKSCREEN:[/B][/U]
+[*]Double-tap to sleep
+[*]Lockscreen Tuner
+[*]Charging info
+[*]Media cover art toggle
+
+[U][B]BUTTONS:[/B][/U]
+[*]Powermenu tweaks
+[*]H/W keys customisation
+[*]Volume button tweaks
+
+[U][B]MISC:[/B][/U]
+[*]Launch music app on headset connection
+[*]Battery light charging customisations
+[*]App Ops
+[/LIST][/CODE][/HIDE]
+
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/credits.png[/IMG]
 [SIZE="4"][INDENT][SIZE="4"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR]team
 [FONT="Comic Sans MS"]AOSP[/FONT]
@@ -53,6 +101,7 @@ Download [B]Gapps:[/B]
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/cash.png[/IMG][/URL]
 [SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed][FONT="Comic Sans MS"]Liked The ROm? Want to Help Us? Then gift us some credits[/FONT][/COLOR][/URL][/B][/SIZE]
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/source.png[/IMG]
 [SIZE="4"][URL="https://github.com/DotOS"]
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/github.png[/IMG]
 [SIZE="5"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
