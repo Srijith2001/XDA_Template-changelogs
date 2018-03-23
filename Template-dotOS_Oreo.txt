@@ -5,18 +5,19 @@
 [B]Device: [/B] *Code name*
 [B]Maintainer:[/B] *Your Name*
 [B]Build Status:[/B]  UnOfficial
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/disclaimer.png[/IMG]
+[IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/disclaimer.png?raw=true[/IMG]
 [CODE]
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
  * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
  [/CODE]
 [SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/about.png[/IMG]
+[IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/about.png?raw=true[/IMG]
 [SIZE="4"]dotOS is an Android Rom which focuses on performance and stability. We focus on making our rom look and feel great without struggling on Performance and Battery! So that one can get most out of his/her device.....[/SIZE]
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/instructions.png[/IMG]
+[IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/instructions.png?raw=true[/IMG]
 [SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
 [SIZE="4"]Download the latest build and GApps
+[URL="https://forum.xda-developers.com/showpost.php?p=75791498&postcount=958"]Recovery Instruction[/URL]
 Reboot to recovery 
 Make NAndroid backup (Not Necessary)
 Wipe System, Data, Cache , Dalvik
@@ -29,9 +30,10 @@ Flash the latest build
 Wipe Cache
 Reboot[/SIZE]
 Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/downloads.png[/IMG]
+[IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/downloads.png?raw=true[/IMG]
 [INDENT][SIZE="3"]Download [B]ROM:
-[URL="https://sourceforge.net/projects/dotos-ota/files/"]DotOS ROM[/URL][SIZE="4"][/B]
+[URL="https://downloads.droidontime.com/"]DotOS ROM[/URL][SIZE="4"][/B]
+[URL="https://sourceforge.net/projects/dotos-2-x/files/"]DotOS ROM[/URL][SIZE="4"][/B]
 Download [B]Gapps:[/B]
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/SIZE][/INDENT]
 [CENTER]Note : Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps[/CENTER]
@@ -83,12 +85,12 @@ Download [B]Gapps:[/B]
 [*]App Ops
 [/LIST][/CODE][/HIDE]
 
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/credits.png[/IMG]
+[IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/credits.png?raw=true[/IMG]
 [SIZE="4"][INDENT][SIZE="4"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR]team
 [FONT="Comic Sans MS"]AOSP[/FONT]
 [FONT="Comic Sans MS"]JDC Team[/FONT]
 [FONT="Comic Sans MS"]Aosp Extended[/FONT] And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/theteam.png[/IMG][SIZE="4"]
+[IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/theteam.png?raw=true[/IMG][SIZE="4"]
 [B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Developer/Contributor
 [B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer/Contributor
