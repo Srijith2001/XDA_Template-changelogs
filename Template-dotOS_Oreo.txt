@@ -100,8 +100,8 @@ Download [B]Gapps:[/B]
 
 [SIZE="4"][B][U]Contributors[/U][/B]
 [B][FONT="Comic Sans MS"]Alexander brookes[/FONT][/B]  - Graphics & Professional Wallpaper Designer
-[B][FONT="Comic Sans MS"]HarshV23[/FONT][/B]  - UI & Web Designer [/SIZE]
-[B][FONT="Comic Sans MS"]RiSHi Bafna[/FONT][/B]  - Graphics & Wallpaper Designer
+[B][FONT="Comic Sans MS"]HarshV23[/FONT][/B]  - UI & Web Designer 
+[B][FONT="Comic Sans MS"]RiSHi Bafna[/FONT][/B]  - Graphics & Wallpaper Designer[/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/cash.png[/IMG][/URL]
