@@ -16,26 +16,33 @@
 [SIZE="4"]dotOS is an Android Rom which focuses on performance and stability. We focus on making our rom look and feel great without struggling on Performance and Battery! So that one can get most out of his/her device.....[/SIZE]
 [IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/instructions.png?raw=true[/IMG]
 [SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
-[SIZE="4"]Download the latest build and GApps
-[URL="https://forum.xda-developers.com/showpost.php?p=75791498&postcount=958"]Recovery Instruction[/URL]
+
+[HIDE][SIZE="4"]Download the latest build and GApps
 Reboot to recovery 
 Make NAndroid backup (Not Necessary)
 Wipe System, Data, Cache , Dalvik
 Flash the latest build and GApps
-Reboot[/SIZE]
+Reboot[/SIZE][/HIDE]
+
 [SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
-[SIZE="4"]Download the latest build 
+
+[HIDE][SIZE="4"]Download the latest build 
 Reboot to recovery
 Flash the latest build
 Wipe Cache
 Reboot[/SIZE]
-Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
+Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.[/HIDE]
+
 [IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/downloads.png?raw=true[/IMG]
-[INDENT][SIZE="3"]Download [B]ROM:[/SIZE]
-[URL="https://downloads.droidontime.com/"]DotOS ROM[/URL][SIZE="4"][/B]
-[URL="https://sourceforge.net/projects/dotos-2-x/files/"]DotOS ROM[/URL][SIZE="4"][/B]
+
+[INDENT][SIZE="3"]Download [B]ROM:[/B][/SIZE]
+
+[SIZE="3"][B][URL="https://sourceforge.net/projects/dotos-2-x/files/""]ROM[/URL][/B][/SIZE]
+[CODE]Download the build for your Device, double check the codename before downloading
+If you are on Mobile and are not able to download, first switch to "Desktop Mode" after that download.
+[/CODE]
 Download [B]Gapps:[/B]
-[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/SIZE][/INDENT]
+[SIZE="3"][B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 [CENTER]Note : Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps[/CENTER]
 
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/features.png[/IMG]
