@@ -31,7 +31,7 @@ Wipe Cache
 Reboot[/SIZE]
 Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
 [IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/downloads.png?raw=true[/IMG]
-[INDENT][SIZE="3"]Download [B]ROM:
+[INDENT][SIZE="3"]Download [B]ROM:[/SIZE]
 [URL="https://downloads.droidontime.com/"]DotOS ROM[/URL][SIZE="4"][/B]
 [URL="https://sourceforge.net/projects/dotos-2-x/files/"]DotOS ROM[/URL][SIZE="4"][/B]
 Download [B]Gapps:[/B]
@@ -91,14 +91,17 @@ Download [B]Gapps:[/B]
 [FONT="Comic Sans MS"]JDC Team[/FONT]
 [FONT="Comic Sans MS"]Aosp Extended[/FONT] And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/theteam.png?raw=true[/IMG][SIZE="4"]
-[B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Owner/Lead Developer
-[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Developer/Contributor
-[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer/Contributor
-[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Contributor 
-[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/Contributor
-[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer [/SIZE]
-[SIZE="4"][B][U]Special thanks:[/U][/B]
-[B][FONT="Comic Sans MS"]Alexcbrookes[/FONT][/B]  - Arts & Wallpaper Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Founder & Head Developer
+[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Lead Developer
+[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer & Developer Relations Manager 
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI & UX Developer 
+[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - App Developer & UI & UX Developer
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - GFX & Visual Designer [/SIZE]
+
+[SIZE="4"][B][U]Contributors[/U][/B]
+[B][FONT="Comic Sans MS"]Alexander brookes[/FONT][/B]  - Graphics & Professional Wallpaper Designer
+[B][FONT="Comic Sans MS"]HarshV23[/FONT][/B]  - UI & Web Designer [/SIZE]
+[B][FONT="Comic Sans MS"]RiSHi Bafna[/FONT][/B]  - Graphics & Wallpaper Designer
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/cash.png[/IMG][/URL]
@@ -120,23 +123,3 @@ Download [B]Gapps:[/B]
 As soon as the problem occurs, take a logcat! 
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL]
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/st4.png[/IMG][/CENTER]
-[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]dotOS, ROM for the *Your Device*[/B][/SIZE]
-
-[B][U]Contributors[/U][/B]
-*Maintainer Name*
-[B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
-[B]Kernel Source:[/B]: 
-
-[B]ROM OS Version:[/B] 8.x Nougat
-[B]ROM Kernel:[/B] Linux 3.x
-[B]ROM Firmware Required:[/B] Must be on Latest Firmware
-[B]Based On:[/B] AOSP
-
-[B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
-[B]Current Stable Version:[/B] v2.1
-[B]Stable Release Date:[/B] 2018-03-01
-
-[B]Created[/B] 2018-03-01
-[B]Last Updated[/B] 2018-03-01
