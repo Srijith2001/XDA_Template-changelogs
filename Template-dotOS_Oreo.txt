@@ -17,7 +17,6 @@
 [IMG]https://github.com/DotOS/XDA_Template-changelogs/blob/master/IMGs/O%20Imgs%20New/instructions.png?raw=true[/IMG]
 [SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
 [SIZE="4"]Download the latest build and GApps
-[URL="https://forum.xda-developers.com/showpost.php?p=75791498&postcount=958"]Recovery Instruction[/URL]
 Reboot to recovery 
 Make NAndroid backup (Not Necessary)
 Wipe System, Data, Cache , Dalvik
